@@ -1,0 +1,13 @@
+JavaScript is a high-level, interpreted programming 
+language that powers the interactive behavior of modern web pages.
+ It runs directly in the browser, allowing developers 
+ to manipulate HTML and CSS in real time, handle user 
+ events, and communicate with servers without reloading 
+ the page. Beyond browsers, JavaScript is also used on 
+ the server side through platforms like Node.js, making 
+ it a full-stack language. With its dynamic typing, 
+ first-class functions, and asynchronous features like 
+ Promises and async/await, JavaScript provides both 
+ flexibility and power for building responsive, 
+ scalable web applications.
+
