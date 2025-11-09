@@ -1,0 +1,49 @@
+{
+  "company": {
+    "name": "TechNova Solutions",
+    "founded": 2018,
+    "employees": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "role": "Frontend Developer",
+        "skills": ["React", "TypeScript", "TailwindCSS"],
+        "remote": true
+      },
+      {
+        "id": 2,
+        "name": "Rahul Sharma",
+        "role": "Backend Engineer",
+        "skills": ["Ktor", "PostgreSQL", "Docker"],
+        "remote": false
+      },
+      {
+        "id": 3,
+        "name": "Elena Kim",
+        "role": "Data Scientist",
+        "skills": ["Python", "Pandas", "LangChain"],
+        "remote": true
+      }
+    ],
+    "projects": [
+      {
+        "projectId": "PX-102",
+        "title": "AI-Powered Chat Widget",
+        "status": "In Progress",
+        "budget": 150000,
+        "technologies": ["Next.js", "OpenAI API", "Redis"]
+      },
+      {
+        "projectId": "PX-205",
+        "title": "Cloud Resource Manager",
+        "status": "Completed",
+        "budget": 230000,
+        "technologies": ["Ktor", "Terraform", "AWS EC2"]
+      }
+    ],
+    "offices": {
+      "headquarters": "Bangalore, India",
+      "branch": ["Singapore", "Berlin", "Toronto"]
+    }
+  }
+}
