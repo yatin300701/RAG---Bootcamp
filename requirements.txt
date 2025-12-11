@@ -13,6 +13,8 @@ docx2txt
 unstructured
 jq
 matplotlib
+langchain-classic
+load_dotenv
 
 ## Embeddings
 
